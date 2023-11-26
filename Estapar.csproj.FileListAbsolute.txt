@@ -1,0 +1,64 @@
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\obj\Debug\net6.0\Estapar.csproj.AssemblyReference.cache
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\obj\Debug\net6.0\Estapar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\obj\Debug\net6.0\Estapar.AssemblyInfoInputs.cache
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\obj\Debug\net6.0\Estapar.AssemblyInfo.cs
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\obj\Debug\net6.0\Estapar.csproj.CoreCompileInputs.cache
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\obj\Debug\net6.0\Estapar.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\obj\Debug\net6.0\Estapar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\bin\Debug\net6.0\appsettings.json
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\bin\Debug\net6.0\Estapar.exe
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\bin\Debug\net6.0\Estapar.deps.json
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\bin\Debug\net6.0\Estapar.runtimeconfig.json
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\bin\Debug\net6.0\Estapar.dll
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\bin\Debug\net6.0\Estapar.pdb
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\obj\Debug\net6.0\staticwebassets\msbuild.Estapar.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\obj\Debug\net6.0\staticwebassets\msbuild.build.Estapar.props
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Estapar.props
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Estapar.props
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\obj\Debug\net6.0\scopedcss\bundle\Estapar.styles.css
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\obj\Debug\net6.0\Estapar.csproj.CopyComplete
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\obj\Debug\net6.0\Estapar.dll
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\obj\Debug\net6.0\refint\Estapar.dll
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\obj\Debug\net6.0\Estapar.pdb
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\obj\Debug\net6.0\Estapar.genruntimeconfig.cache
+C:\Users\valdo\OneDrive\Área de Trabalho\Projetos\Estapar\Estapar\obj\Debug\net6.0\ref\Estapar.dll
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\bin\Debug\net6.0\appsettings.json
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\bin\Debug\net6.0\Estapar.exe
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\bin\Debug\net6.0\Estapar.deps.json
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\bin\Debug\net6.0\Estapar.runtimeconfig.json
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\bin\Debug\net6.0\Estapar.dll
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\bin\Debug\net6.0\Estapar.pdb
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\obj\Debug\net6.0\Estapar.csproj.AssemblyReference.cache
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\obj\Debug\net6.0\Estapar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\obj\Debug\net6.0\Estapar.AssemblyInfoInputs.cache
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\obj\Debug\net6.0\Estapar.AssemblyInfo.cs
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\obj\Debug\net6.0\Estapar.csproj.CoreCompileInputs.cache
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\obj\Debug\net6.0\Estapar.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\obj\Debug\net6.0\Estapar.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\obj\Debug\net6.0\staticwebassets\msbuild.Estapar.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\obj\Debug\net6.0\staticwebassets\msbuild.build.Estapar.props
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Estapar.props
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Estapar.props
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\obj\Debug\net6.0\scopedcss\bundle\Estapar.styles.css
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\obj\Debug\net6.0\Estapar.csproj.CopyComplete
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\obj\Debug\net6.0\Estapar.dll
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\obj\Debug\net6.0\refint\Estapar.dll
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\obj\Debug\net6.0\Estapar.pdb
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\obj\Debug\net6.0\Estapar.genruntimeconfig.cache
+C:\Users\valdo\OneDrive\Área de Trabalho\Projeto Garagem\Estapar\obj\Debug\net6.0\ref\Estapar.dll
